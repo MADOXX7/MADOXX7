@@ -1,7 +1,7 @@
 # > MADOXX7_
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=700&lines=booting...;loading+modules...;initializing+system...;welcome+I'm+MADOXX7" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=700&lines=booting+system...;loading+modules...;initializing+developer...;welcome+to+MADOXX7" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://github.com/MADOXX7">
     <img src="https://img.shields.io/badge/GitHub-MADOXX7-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://discord.com/">
+  <a href="https://discord.com/users/">
     <img src="https://img.shields.io/badge/Discord-madoxx73-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
@@ -29,15 +29,35 @@ status: active
 
 > run identity.sh
 
-name: MADOXX
-mode:  breaking & improving
+name: independent developer
+mode: learning | building | breaking | improving
+```
 
-> load mindset.cfg
+---
 
-- no tutorials
-- no shortcuts
-- learn by doing
+## 📊 GITHUB STATS
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MADOXX7&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADOXX7&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTIONS
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MADOXX7/MADOXX7/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## ⚙️ SYSTEM
+
+```bash
 > scan repository/
 
 algorithms/        ✔
@@ -47,21 +67,6 @@ mini-projects/     ✔
 experiments/       ✔
 random/            ✔
 
-> github --stats
-
-loading data...
-
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MADOXX7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADOXX7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
-```bash
 > progress --check
 
 [▓░░░░░░░░] beginner
@@ -69,12 +74,6 @@ loading data...
 [▓▓▓▓▓░░░░] evolving
 [▓▓▓▓▓▓▓░░] improving
 [▓▓▓▓▓▓▓▓▓] loading...
-
-> warnings.log
-
-unstable code detected
-unfinished projects detected
-continuous improvement enabled
 
 > current_focus()
 
