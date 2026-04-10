@@ -38,11 +38,11 @@ mode: learning | building | breaking | improving
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MADOXX7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MADOXX7&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADOXX7&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MADOXX7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -66,14 +66,6 @@ data-structures/   ✔
 mini-projects/     ✔
 experiments/       ✔
 random/            ✔
-
-> progress --check
-
-[▓░░░░░░░░] beginner
-[▓▓▓░░░░░░] learning
-[▓▓▓▓▓░░░░] evolving
-[▓▓▓▓▓▓▓░░] improving
-[▓▓▓▓▓▓▓▓▓] loading...
 
 > current_focus()
 
