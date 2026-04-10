@@ -1,7 +1,7 @@
 # > MADOXX7_
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=independent+developer;learning+by+building;break+things+and+fix+them;consistency+%3E+motivation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=700&lines=booting...;loading+modules...;initializing+system...;welcome+I'm+MADOXX7" />
 </p>
 
 <p align="center">
@@ -17,111 +17,76 @@
   </a>
 </p>
 
-```bash
-$ whoami
-independent developer
+---
 
-$ status
-learning | building | breaking | improving
+## 🖥️ TERMINAL
+
+```bash
+> boot sequence initialized...
+
+loading profile: MADOXX7
+status: active
+
+> run identity.sh
+
+name: MADOXX
+mode:  breaking & improving
+
+> load mindset.cfg
+
+- no tutorials
+- no shortcuts
+- learn by doing
+
+> scan repository/
+
+algorithms/        ✔
+oop/               ✔
+data-structures/   ✔
+mini-projects/     ✔
+experiments/       ✔
+random/            ✔
+
+> github --stats
+
+loading data...
+
 ```
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MADOXX7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
 
-## 🧠 SYSTEM.LOG
-
-> This is not a polished portfolio.  
-> This is a **live coding environment**.
-
-I use this space to:
-
-- test ideas  
-- break things  
-- rebuild better  
-- learn by doing  
-
-No tutorials. No shortcuts. Just code.
-
----
-
-## ⚙️ STACK
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADOXX7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
 
 ```bash
-> languages --active
+> progress --check
 
-Java
-Python
-C
-C++
-```
-
----
-
-## 📂 FILE SYSTEM
-
-```bash
-/projects
-
-├── algorithms/
-├── oop/
-├── data-structures/
-├── mini-projects/
-├── experiments/
-└── random/
-```
-
----
-
-## 📈 PROGRESSION
-
-```bash
 [▓░░░░░░░░] beginner
 [▓▓▓░░░░░░] learning
 [▓▓▓▓▓░░░░] evolving
 [▓▓▓▓▓▓▓░░] improving
 [▓▓▓▓▓▓▓▓▓] loading...
-```
 
----
+> warnings.log
 
-## ⚠️ WARNINGS
+unstable code detected
+unfinished projects detected
+continuous improvement enabled
 
-```bash
-> system.check
-
-✔ unstable code
-✔ unfinished projects
-✔ experimental ideas
-✔ constant changes
-```
-
----
-
-## 🛠️ CURRENT FOCUS
-
-```bash
-> focus --now
+> current_focus()
 
 - java fundamentals + oop
 - problem solving
 - backend basics
-```
 
----
-
-## 💡 CORE PRINCIPLE
-
-```bash
-> philosophy
+> execute philosophy()
 
 "consistency > motivation"
-```
 
----
-
-## 🧬 FINAL NOTE
-
-```bash
-> echo "still learning..."
+> echo status
 
 still learning...
 ```
