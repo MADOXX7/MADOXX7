@@ -19,30 +19,42 @@
 
 ---
 
-## 🖥️ TERMINAL
+## 📊 GITHUB STATS
 
-```bash
-> boot sequence initialized...
-
-loading profile: MADOXX7
-status: active
-
-> run identity.sh
-
-name: independent developer
-mode: learning | building | breaking | improving
-```
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MADOXX7&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MADOXX7&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <br>
+      <!-- Contador de dias seguidos codando (Streak) -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MADOXX7&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GITHUB STATS
+## 📈 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MADOXX7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- Gráfico dinâmico de linhas sobre sua atividade recente -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MADOXX7&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
+---
+
+## 📌 FEATURED PROJECT
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MADOXX7&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Card dinâmico do seu repositório principal. Substitua "NOME_DO_REPOSITORIO" pelo seu projeto real -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADOXX7&repo=NOME_DO_REPOSITORIO&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -52,35 +64,6 @@ mode: learning | building | breaking | improving
 <p align="center">
   <img src="https://raw.githubusercontent.com/MADOXX7/MADOXX7/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-## ⚙️ SYSTEM
-
-```bash
-> scan repository/
-
-algorithms/        ✔
-oop/               ✔
-data-structures/   ✔
-mini-projects/     ✔
-experiments/       ✔
-random/            ✔
-
-> current_focus()
-
-- java fundamentals + oop
-- problem solving
-- backend basics
-
-> execute philosophy()
-
-"consistency > motivation"
-
-> echo status
-
-still learning...
-```
 
 ---
 
