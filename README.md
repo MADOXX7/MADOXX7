@@ -1,7 +1,7 @@
 # > MADOXX7_
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=700&lines=booting+system...;loading+modules...;initializing+developer...;welcome+to+MADOXX7" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=700&lines=booting+system...;Discord:+madoxx73_71200...;You+have+been+hacked...;welcome+to+my+house" />
 </p>
 
 <p align="center">
