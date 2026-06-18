@@ -54,7 +54,7 @@
 
 <p align="center">
   <!-- Card dinâmico do seu repositório principal. Substitua "NOME_DO_REPOSITORIO" pelo seu projeto real -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADOXX7&repo=NOME_DO_REPOSITORIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADOXX7&repo=academic-scraper-api&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
