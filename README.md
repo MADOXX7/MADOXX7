@@ -23,14 +23,6 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MADOXX7&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MADOXX7&layout=compact&theme=tokyonight&hide_border=true" height="175" />
-    </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" colspan="2">
       <br>
       <!-- Contador de dias seguidos codando (Streak) -->
