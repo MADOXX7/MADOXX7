@@ -33,24 +33,6 @@
 
 ---
 
-## 📈 ACTIVITY GRAPH
-
-<p align="center">
-  <!-- Gráfico dinâmico de linhas sobre sua atividade recente -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MADOXX7&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 📌 FEATURED PROJECT
-
-<p align="center">
-  <!-- Card dinâmico do seu repositório principal. Substitua "NOME_DO_REPOSITORIO" pelo seu projeto real -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADOXX7&repo=NetInspect&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🐍 CONTRIBUTIONS
 
 <p align="center">
